@@ -1,0 +1,27 @@
+_repo: The-Life-of-Gordon-Volume-II_26493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boulger, Demetrius Charles
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '2169'
+    url: http://www.gutenberg.org/2009/agents/2169
+description: ''
+gutenberg_issued: '2008-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Generals -- Great Britain -- Biography'
+- !lcsh 'Gordon, Charles George, 1833-1885'
+title: The Life of Gordon, Volume II
+url: http://www.gutenberg.org/ebooks/26493
